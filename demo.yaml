@@ -9,3 +9,4 @@ scenarios:
   Choose Flight:
     requests:
     -label
+    this is the label
